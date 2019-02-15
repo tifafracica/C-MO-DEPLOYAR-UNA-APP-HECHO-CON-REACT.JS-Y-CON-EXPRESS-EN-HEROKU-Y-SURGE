@@ -13,19 +13,19 @@ Instalar Heroku en tu computadora:
 
 Instalar surge globalmente
 
-npm install --global surge
+`npm install --global surge`
 
 
 ### Se deploya en dos partes, el servidor (backend) y el cliente (frontend).
 
 ## DEPLOYAR EL BACKEND
 * vayan a su carpeta donde tienen el backend y lo abren en la consola, después deben hacer lo siguiente:
-git init
-git add .
-git commit -m “zaraza”
-heroku create
-git push heroku master
-* aquí se genera una URL ramdon. (guarden esa dirección que le necesitaran en el frontend)
+`git init`
+`git add .`
+`git commit -m “zaraza”`
+`heroku create`
+`git push heroku master`
+* aquí se genera una URL
 
 ## DEPLOYAR EL FRONTEND
 * deben modificar la ruta URL de cada fetch que tienen sus componentes, con la nueva Ruta que les dió Heroku.
