@@ -21,10 +21,15 @@ Instalar surge globalmente
 ## DEPLOYAR EL BACKEND
 * vayan a su carpeta donde tienen el backend y lo abren en la consola, después deben hacer lo siguiente:
 `git init`
+
 `git add .`
+
 `git commit -m “zaraza”`
+
 `heroku create`
+
 `git push heroku master`
+
 * aquí se genera una URL
 
 ## DEPLOYAR EL FRONTEND
