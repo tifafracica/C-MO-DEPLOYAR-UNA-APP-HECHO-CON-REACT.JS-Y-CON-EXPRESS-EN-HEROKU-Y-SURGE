@@ -30,7 +30,7 @@ Instalar surge globalmente
 
 `git push heroku master`
 
-* aquí se genera una URL
+* aquí se genera una URL, que estaria bueno que lo guarden pues mas adelante lo van a necesitar.
 
 ## DEPLOYAR EL FRONTEND
 * deben modificar la ruta URL de cada fetch que tienen sus componentes, con la nueva Ruta que les dió Heroku.
