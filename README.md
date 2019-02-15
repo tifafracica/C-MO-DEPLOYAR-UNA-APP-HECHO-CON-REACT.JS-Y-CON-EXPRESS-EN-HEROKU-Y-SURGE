@@ -43,5 +43,5 @@ así lo teníamos antes:
 así lo tenemos que colocar:
 `fetch('https://enigmatic-inlet-77181.herokuapp.com/api/items/?q=' + name) y demás zaraza`
        
-* en la carpeta del cliente, lo abrimos en la consola y escribir el siguiente comando npm run build (esto genera una carpeta build en su carpeta de cliente)
-* en la carpeta build la abren por consola y escriben el comando surge ahí creamos el link que podrán usar! super chevere!
+* en la carpeta del cliente, lo abrimos en la consola y escribir el siguiente comando `npm run build` (esto genera una carpeta build en su carpeta de cliente)
+* en la carpeta build la abren por consola y escriben el comando `surge` ahí creamos el link que podrán usar! super chevere!
