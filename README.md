@@ -3,12 +3,16 @@
 ## HEROKU CLI
 
 ABRIR UNA CUENTA EN HEROKU
+
 Instalar Heroku en tu computadora:
+
 [descargar aqui](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
 
 ## SURGE
 [ABRIR UNA CUENTA EN SURGE](https://surge.sh/)
+
 Instalar surge globalmente
+
 npm install --global surge
 
 
